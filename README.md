@@ -1,4 +1,4 @@
 # planets Website
-A small website with plasnets info
+A small website with planets info
 
 ![Example image](img.png)
